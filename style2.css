@@ -1,0 +1,18 @@
+body{
+	background-image: url(https://cdn5.f-cdn.com/contestentries/212081/10921447/5549c4471c049_thumb900.jpg);
+	background-size:cover;
+}
+
+div{
+	border: 2px solid white;
+	position: absolute;
+	width: 300px;
+	left: 450px;
+	top: 200px;
+
+
+}
+
+form{
+	margin: 5px;
+}
